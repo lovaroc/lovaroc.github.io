@@ -641,8 +641,7 @@ img {
 }
 
 .team_area {
-  width: 30.66%;
-  margin: 0 auto;
+  width: 35.66%;
   height: 490px;
   overflow: hidden;
   text-align: center;
@@ -696,7 +695,7 @@ img {
 .team_box img {
   display: block;
   border-radius: 0%;
-  width: 90%;
+  width: 68%;
   margin: 0 auto;
 }
 
